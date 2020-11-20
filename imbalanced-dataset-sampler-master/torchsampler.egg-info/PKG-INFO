@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: torchsampler
+Version: 0.1
+Summary: A (PyTorch) imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
+Home-page: ('https://github.com/ufoym/imbalanced-dataset-sampler',)
+Author: Ming
+Author-email: a@ufoym.com
+License: MIT
+Description: UNKNOWN
+Keywords: sampler
+Platform: UNKNOWN
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
